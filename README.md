@@ -9,6 +9,7 @@ In this task we had to create a local repositry using git and add a small python
 In order to intall this program you will need the following:
 * a code editor, such as [Visual Studio Code](https://code.visualstudio.com/download)
 * python, you can download the latest version [here](https://www.python.org/downloads/)
+* git, you can download it [here](https://git-scm.com/downloads)
 
 #### _**Usage**_
 This program is very simple and was created so I could get familiar with using git. A the moment the output it produces should be whatever the user enters. Here is a screenshot to demonstrate (I just noticed that I spelt "here" as "her"):
