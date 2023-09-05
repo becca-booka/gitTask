@@ -4,6 +4,7 @@
 
 #### _**Description**_
 In this task we had to create a local repositry using git and add a small python program to it. We were told to make various changes to the program and commit them. The goal of this task was to get us familiar with using git. In the intial version of the program the program had to print out "Hello World!", in the second version of the program it had to print out the message "Git is awesome!", and in the final version of the program it had to ask for the user's input and then print out whatever the user had entered.
+UPDATE: for level 3, task 07 we had to chose a repo to make changes to via issues and pull requests. I created two issues, the first issue asked to add a feature that asks the user for their name and prints it out, and the second changed the print feature to an f-string that reads "Hello world, my name is "user's name" and my message is "user's message.". I made both changes on their own seperate branches and then merged both to the main branch.
 
 #### _**Installation**_
 In order to intall this program you will need the following:
