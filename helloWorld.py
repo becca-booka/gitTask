@@ -5,10 +5,10 @@
 '''change the message printed out by the program to "Git is awesome!"'''
 '''modify your program to accept input from the user and then print out the inputted data'''
 '''modify your program to ask the user their name and then print it out'''
+'''Change the print feature to print out the following: Hello world, my name is [user's name] and my message is [user's message].'''
 # ask for user's name
 user_name = input("Please enter your name: \n")
 # message
 message = input("Enter your message here: \n")
-# print name and message
-print(user_name)
-print(message)
+# print out f-string that contains user's name and message
+print(f"Hello world, my name is {user_name} and my message is {message}.")
